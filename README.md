@@ -19,10 +19,6 @@ Web application to help you built a conference schedule. This project was bootst
 - CSS
 - ES6
 
-## :trophy: Special Credits
-
-Design idea by [Ibrahim Shaqura on Behance](https://www.behance.net/gallery/71179603/HCIE-App-UIUX-Design).
-
 ## ✨ Live Demo
 
 You can look at it [here](https://intense-garden-00658.herokuapp.com/) and sign up or try it with the demo user:</br>
@@ -47,18 +43,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## :pencil2: Todo
 - [Testing](https://github.com/misselliev/dulce-calendar-redux/issues/6)
-
-## Author
-
-👤 Elizabeth Villalejos
-
-- [Github](https://github.com/misselliev)
-- [Linkedin](https://linkedin.com/ellievillalejos)
-- [Dev.to](https://dev.to/misselliev)
-- [Twitter](https://twitter.com/miss_elliev/)
-- [Instagram](https://www.instagram.com/miss_elliev/)
-- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
-
 
 ## 🤝 Contributing
 
